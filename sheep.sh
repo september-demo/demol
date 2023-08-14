@@ -5,3 +5,5 @@ echo
 echo
 git remote -v
 echo
+git status
+ls -la

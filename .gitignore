@@ -1,2 +1,7 @@
 newuser.txt
 .sheep.sh
+**/last/*
+!**/last/*
+!last/
+!last
+**/last/**

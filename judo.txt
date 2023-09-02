@@ -1,0 +1,10 @@
+mango
+apple
+orange
+banana
+papaya
+stawberry
+tomato
+coconut
+dragon-fruit
+blueberry

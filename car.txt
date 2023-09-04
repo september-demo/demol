@@ -1,0 +1,6 @@
+wc -l cycle.txt 
+history 20
+history -w cycle.txt 
+wc -l cycle.txt 
+ls -la
+history -a car.txt 

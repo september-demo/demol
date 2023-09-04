@@ -1,0 +1,500 @@
+ls -la
+find . -size 2k
+find ls -size 2k 
+locate Dockerfile
+cd ..
+locate Dockerfile
+locate git
+cd git
+tail -f tree
+tail -f tree
+tail -f tree
+tail -n 1 tree
+tail --head
+tail --help
+ls -1
+ls -1S
+ls -1s
+ls *
+ls -ls *
+ls -la *
+mv last/ ~/Desktop
+mv last/ ~/Desktop
+history | grep credential
+history 1
+history | grep config
+history | grep credential
+history | grep ^credential
+history | grep ^credential
+history | grep ^credential
+pwd -l
+pwd -L
+pwd 
+pwd -P
+cd ~Downloads
+tac tree
+touch field
+rm -rf field
+ls -la 
+cd ~/Desktop/pol
+cd ~/Desktop/polar/
+ls -la
+cat > field
+cat > field
+head tree > field
+head edible > field
+cat field
+cat edible > field 
+cat field
+cat edible > str
+cat str
+ls -la
+rm -rf field str
+cat edible demo.txt > field
+field | wc -l
+cat field | wc -l
+cat edible | wc -l
+cat demo.txt | wc -l
+echo $HEAD
+locate mango
+locate -i mango
+locate -i mango*
+locate -i mang*
+locate -i mango*banana
+locate orange
+head edible
+locate orange
+locate --help
+locate edible
+git status
+useradd mahesh
+useradd --help
+git remote -v
+cd 
+`cd Desktop/git
+cd Desktop/git
+git remote -v
+wc --help
+cat edible | wc -l
+cat tree | wc -l
+cat tree | wc -c
+cat tree | wc -m
+cat tree | wc -L
+cat tree | wc -w
+cat newuser.txt | wc -w
+head tree > judo.txt
+cat judo.txt | wc -w
+cat judo.txt | wc -l
+cat judo.txt | wc -c
+wc -l judo.txt 
+wc -c judo.txt 
+wc -c tree 
+wc --help
+echo 26 >> judo.txt 
+tail -n -0 judo.txt 
+tail -n -1 judo.txt 
+tail -n -3 judo.txt 
+wc -c judo.txt 
+wc -m judo.txt 
+wc -l judo.txt 
+wc -w judo.txt 
+wc -L judo.txt 
+wc -L newuser.txt 
+cat newuser.txt | wc -L 
+history --help
+history 3
+history -anrw tree
+history -a tree
+ls -la
+cd .git
+ls -la
+vi tree
+tail tree
+ls -la mango
+cd ..
+tail tree
+vi tree
+wc -l tree
+git clean -n
+git reset tree
+wc -l tree
+git restore tree
+wc -l tree
+history --help
+history -n tree
+wc -l tree
+echo history >> tree
+wc -l tree
+vi tree
+echo history > tree
+vi tree
+echo $history > tree
+vi tree
+cat tree
+history 5
+history > tree
+wc -l tree
+git restore tree
+wc -l tree
+wc --help
+cd ~
+ls -la tree
+wc -c tree
+wc -w tree
+wc -m tree
+rm -rf tree
+ls -la tree
+cd -
+echo "తెలుగు అనేది ద్రావిడ భాషల కుటుంబానికి చెందిన భాష. దీనిని మాట్లాడే ప్రజలు ప్రధానంగా ఆంధ్ర" >> tree
+wc -l  tree
+vi tree
+history
+git restore tree
+wc -l tree
+wc -l tree mango
+wc -l tree mango.txt
+wc -m tree mango.txt
+wc -w tree mango.txt
+wc -b tree mango.txt
+wc -c tree mango.txt
+wc -w tree mango.txt
+wc -L tree mango.txt
+history --help
+history -d
+history -d offset
+cat tree mango.txt | wc -l
+cat tree mango.txt apple.txt | wc -l
+wc -l apple.txt 
+cat apple.txt 
+history --help
+history -w bus.txt 
+wc -l bus.txt 
+vi bus.txt 
+history -w tree 
+wc -l tree 
+git restore tree
+wc -l tree 
+OFFSET
+history -d 20
+history --help
+history -d 200
+history -d 30
+history -d 70
+history -s
+ls -la
+git restore bus.txt bus.txt 
+ls -la
+git restore 
+git restore ~/Desktop/git
+git status
+git restore judo
+git restore judo.txt
+git stash
+history | grep judo.txt
+git status
+clean --help
+git clean -f
+git clean -help
+git clean -
+head tree >> judo.txt
+git clean --help
+git clean 
+git clean -i
+mkdir --help
+mkdir -v logo
+mkdir -m lab
+mkdir --mode=0777 lab
+ls -la lab
+rm -rf lab
+mkdir --mode=0777 lab
+ls -la
+rm -rf logo
+ls -la
+rm -rf lab
+mkdir -m lab
+ls -la
+mkdir -m-222 lab
+ls -la
+mkdir -m-777 logo
+ls -la
+mkdir -m-0777 login
+ls -la
+mkdir -m--0777 login
+mkdir -m--0777 left
+ls -la
+mkdir -m=0777 left
+mkdir -m=0777 leave
+ls -la
+mkdir -m=0777 live
+ls -la
+mkdir -m=222 live
+mkdir -m=222 lend
+sudo mkdir -m=222 lend
+touch --help
+mkdir --help
+mkdir -m=444 lost
+git remote -v
+echo plant >> tree
+git commit -a -m "veg 1.9"
+git push bosh master
+echo algae >> tree
+git commit -a -m "micro 1.1"
+git push bosh master
+git push bosh master
+echo bacteria >> tree
+git commit -a -m "micro 1.2"
+git push bosh master
+git config --local --unset credential.helper
+git config --local --add credential.helper wincred
+cat .git/config
+echo virus
+echo virus >> tree
+git commit -a -m "micro 1.3"
+git push bosh master
+echo tissue >> tree
+git commit -a -m "micro 1.4"
+git push bosh master
+cat ~/.git-credentials
+cat ~/Downloads/PortableGit/etc/config
+cat ~/Downloads/PortableGit/etc/gitconfig
+cat ~/.gitconfig
+cat .git/config
+echo corona >> tree
+git commit -a -m "micro 1.5"
+git push bosh master
+echo chromo >> tree
+git commit -a -m "micro 1.6"
+git push bosh master
+find / -name wincred
+find / -type d -iname Downloads
+find / -type d -iname Downloads/
+find / -type d -iname PortableGit
+find . -name tree
+find ~/Desktop/ -name tree
+find ~ -name tree
+find ~ -name wincred
+pwd
+find ~ -iname credentials
+cd /c/Users/LENOVO/AppData/Local/Temp/
+ls -la
+cd \~nsuA.tmp/
+cd "~nsuA.tmp"
+cmd //c tree
+cd -
+find ~ -iname credentials
+echo cearels >> tree
+git commit -a -m "ingre 1.5"
+git push bosh master
+echo sugar >> tree
+git commit -a -m "ingre 1.6"
+git push bosh master
+echo salt >> tree
+git commit -a -m "ingre 1.7"
+git push bosh master
+git push bosh master
+sweet >> tree
+echo sweet >> tree
+git commit -a -m "ingre 1.8"
+git push bosh master
+echo pepper >> tree
+git commit -a -m "ingre 1.9"
+git config --local --unset credential.helper
+git config --local --add credential.helper manager
+git push bosh master
+git config --local --unset credential.helper
+git config --local --add credential.helper wincred
+echo boast >> tree
+git commit -a -m "ingre 2.0"
+git push bosh master
+git config --local --unset credential.helper
+git config --local --add credential.helper manager
+echo horlicx >> tree
+git commit -a -m "ingre 2.1"
+git push bosh master
+git config --local --unset credential.helper
+git config --local --add credential.helper manager-core
+echo ragi >> tree
+git commit -a -m "ingre 2.2"
+git push bosh master
+git config --local --unset credential.helper
+git config --local --add credential.helper manager-ui
+echo biscuits >> tree
+git commit -a -m "ingre 2.3"
+git push bosh master
+echo chocolates >> tree
+git commit -a -m "ingre 2.4"
+git push bosh master
+git config --local --unset credential.helper
+git config --local --add credential.helper store
+echo chips >> tree
+git commit -a -m "ingre 2.5"
+git push bosh master
+cat ~/.git-credentials
+git log --oneline 2
+git log -2
+git log -2 --oneline
+clean --help
+git clean ---help
+git clean
+pwd --help
+pwd 
+pwd -L
+pwd -p
+pwd -P
+pwd -W
+$pwd
+echo $pwd
+rmdir --help
+ls -la
+rmdir lab/
+ls -la
+ls -la leave left lend live
+rmdir leave left lend live
+ls -la
+mkdir --help
+mv apple.txt lux/
+mv developer.txt mango.txt orange.txt  lux/
+cd lux/
+ls -la
+cat --help
+head tree
+cd ..
+more tree
+less tree
+more tree
+clear --help
+more newuser.txt 
+grep --help
+ls -R | grep config
+ls -R | grep tree
+ls -R | grep newuser.txt 
+ls -R | grep lux
+ls -R | grep apple.txt
+ls -R | grep config
+ls -R 
+ls *
+ls -la *
+ls -R | grep ^tree
+ls -R | grep ^newuser.txt
+echo mutton >> tree
+git commit -a -m "nonveg 1.1"
+cat .git/config
+git remote add meta
+git remote --local --unset credential.helper
+echo seeds >> tree
+git commit -a -m "ingre 1.9"
+git config --local --unset credential.helper 
+git config --local --add credential.helper cache
+git push bosh master
+echo cabbage >> tree
+git commit -a -m "veg 2.9"
+git push bosh master
+cat .git/config
+git config --unset credential.helper
+git config --add  credential.helper wincred
+echo rose >> tree
+git commit -a -m "veg 2.10"
+git push bosh master
+git config --unset credential.helper
+git config --add  credential.helper manager
+echo jasmine >> tree
+git commit -a -m "veg 2.11"
+git push bosh master
+cd ~/Desktop/maven-enterprise-application/
+cat .git/config
+cat ~/Desktop/git/.git/config
+cat ~/Desktop/maven-web-application/.git/config
+cd ~/Desktop/maven-web-application/
+git branch --sort=-committerdate
+git branch 
+git branch -a --merged
+git ~/Desktop/git
+cat ~/Desktop/git
+cd ~/Desktop/git
+git config --global alias.co checkout
+git config --global -l
+git co main
+git config --unset credential.helper
+echo samosa >> tree
+git commit -a -m "snacks 1.1"
+git status
+git restore 
+git restore lux/
+cd lux
+ls -la
+git restore mango.txt
+mv apple.txt developer.txt mango.txt orange.txt ../
+ls -la
+cd ..
+git commit -a -m "snacks 1.1"
+git add .
+git commit -a -m "snacks 1.1"
+git config --local 
+git config --local --list
+cat .git/config
+git push bosh master
+git status
+echo bajji >> tree
+git commit -a -m "snacks 1.2"
+git push bosh master
+cat ~/.gitonfig
+cat ~/.gitconfig
+cat ~/.git-credentials
+vi ~/.git-credentials
+cat ~/.git-credentials
+cat ~/Downloads/PortableGit/etc/gitconfig
+cat .git/config
+git push bosh master
+git config --local --add credential.helper manager
+git push bosh master
+git push bosh master
+git branch -a
+echo jilebi >> tree
+vi tree
+ls -la
+git push bosh main
+find / -iname credentialhelperselector
+find / -iname credentialhelperselector
+git checkout master
+git status
+git restore
+git restore tree
+git checkout master
+ls -la
+ls -ls /lux
+ls -ls lux/
+ls -la lux/
+ls -la
+ls -la
+pwd
+cd /D/
+ls -la
+cd 'System Volume Information'/
+find / -iname credentialhelperselector
+cd G
+cd G:
+ls -la
+cd 'harry potter'/
+ls -la
+echo 'Fantastic Beasts The Crimes of Grindelwald (2018) BluRay m720p (E-Subs) [M_Dude].mkv' 
+cd ~/Desktop/git
+ls -la
+vi ship.txt 
+git st
+git config --global alias.st status
+git st
+git help -a | grep credential
+git help -c | grep credential
+git help -g | grep credential
+history -a config
+history | grep config
+ls -la config
+history -a config
+ls -la config
+ls -la
+vi config
+cat config
+history -a cycle.txt 
+wc -l cycle.txt 
+history 20
+history -w cycle.txt 
